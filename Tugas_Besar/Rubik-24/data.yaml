@@ -1,0 +1,17 @@
+names:
+- Blue
+- Green
+- Orange
+- Red
+- White
+- Yellow
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: rubik-bxuvb
+  url: https://universe.roboflow.com/rubik/rubik-bxuvb/dataset/24
+  version: 24
+  workspace: rubik
+test: ../test/images
+train: ../train/images
+val: ../valid/images
